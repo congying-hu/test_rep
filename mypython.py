@@ -1,7 +1,7 @@
 
 
 
-def HelloWord():
+def HelloWorld():
   print("Hello World")
   
   
